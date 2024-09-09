@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satria Bayu</h1>
-<h4 align="left">I love diving into the details and finding those pesky issues before they reach the users. And oh, I can't start my day without a good cup of coffee!</h3>
+<h4 align="left">QA Engineer | Manual & Automation Testing
+
+Ensuring flawless software through meticulous manual testing and smart automation. Skilled in Selenium, WebdriverIO, Appium, and more. Passionate about delivering bug-free experiences.
+
+“Break it manually, automate it perfectly.” And oh, I can't start my day without a good cup of coffee!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriabpy&label=Profile%20views&color=0e75b6&style=flat" alt="satriabpy" /> </p>
 
