@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satria Bayu</h1>
-<h4 align="left">QA Engineer | Manual & Automation Testing
+<h4 align="left">
+💻QA Engineer | Manual & Automation Testing
 
 Ensuring flawless software through meticulous manual testing and smart automation. Skilled in Selenium, WebdriverIO, Appium, and more. Passionate about delivering bug-free experiences.
 
