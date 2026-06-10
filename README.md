@@ -1,37 +1,96 @@
-<h1 align="center">Hi 👋, I'm Satria Bayu</h1>
-<h3 align="center">
-💻QA Engineer | Manual & Automation Testing</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SATRIA%20BAYU%20PUTRA%20YANA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=QA%20Automation%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<h4 align="left">Ensuring flawless software through meticulous manual testing and smart automation. Skilled in Selenium, WebdriverIO, Appium, and more. Passionate about delivering bug-free experiences.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=SatriaBPY">
+    <img src="https://komarev.com/ghpvc/?username=SatriaBPY&label=Profile%20views&color=00FFFF&style=flat-square" alt="SatriaBPY's profile views" />
+  </a>
+</p>
 
-“Break it manually, automate it perfectly.” And oh, I can't start my day without a good cup of coffee!</h3>
+<img src="none" alt="Banner" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satriabpy&label=Profile%20views&color=0e75b6&style=flat" alt="satriabpy" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satriabpy" alt="satriabpy" /></a> </p> -->
-
-
-- 🔭 
+## 📌 About Me
+- Ensuring flawless software through meticulous manual testing and smart automation. Skilled in Selenium, WebdriverIO, Appium, and Playwright. Passionate about delivering bug-free experiences.
+- “Break it manually, automate it perfectly.” And oh, I can't start my day without a good cup of coffee!
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a>
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> 
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> 
-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> 
-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a> 
-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/></a>
-- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="25" height="25"/> </a> 
+## 🧠 My Focus Areas
+- QA Engineer
+- QA Automation Engineer
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/SatriaBPY">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatriaBPY&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="SatriaBPY's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=SatriaBPY&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="SatriaBPY's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=SatriaBPY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SATRIA BAYU PUTRA YANA's GitHub Trophies" />
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satriabpy&show_icons=true&theme=dark&title_color=fafafa&text_color=09d7b5&bg_color=383838&locale=en" alt="satriabpy" /></p>
+## 🛠️ Languages & Tools
 
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satriabpy&show_icons=true&theme=dark&title_color=faf9f9&text_color=4ed0a4&bg_color=545454&locale=en&layout=compact" alt="satriabpy" /> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/SatriaBPY">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatriaBPY&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/satria-bayu-putra-yana/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/62082258872922">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:satbayputra@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://satportofol.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
