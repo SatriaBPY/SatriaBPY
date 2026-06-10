@@ -3,6 +3,16 @@
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SatriaBPY">
     <img src="https://komarev.com/ghpvc/?username=SatriaBPY&label=Profile%20views&color=00FFFF&style=flat-square" alt="SatriaBPY's profile views" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> 
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"> 
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&amp;logo=bitbucket&amp;logoColor=white" alt="Bitbucket"> 
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub"> 
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"> 
+    <img src="https://img.shields.io/badge/-mocha-%238D6748?style=flat&amp;logo=mocha&amp;logoColor=white" alt="Mocha"> 
+    <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=flat&amp;logo=playwright&amp;logoColor=white" alt="Playwright"> 
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&amp;logo=selenium&amp;logoColor=white" alt="Selenium">
   </a>
 </p>
 
